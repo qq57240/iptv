@@ -37,9 +37,6 @@ udp://233.50.201.192:5140
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://raw.gitmirror.com/qq57240/iptv/main/logo/CCTV17.png" group-title="央视高清",CCTV17
 udp://233.50.201.35:5140
 
-
-
-
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://raw.gitmirror.com/qq57240/iptv/main/logo/zhejiang.png" group-title="卫视高清",浙江卫视
 udp://233.50.201.100:5140
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://raw.gitmirror.com/qq57240/iptv/main/logo/shenzhen.png" group-title="卫视高清",深圳卫视
@@ -105,7 +102,6 @@ udp://233.50.201.46:5140
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://raw.gitmirror.com/qq57240/iptv/main/logo/jilin.png" group-title="卫视标清",吉林卫视
 udp://233.50.201.48:5140
 
-
 #EXTINF:-1 tvg-id="97" tvg-name="中国教育一套" tvg-logo="https://raw.gitmirror.com/qq57240/iptv/main/logo/null.png" group-title="卫视标清",中国教育一套
 udp://233.50.201.75:5140
 #EXTINF:-1 tvg-id="97" tvg-name="中国教育四套" tvg-logo="https://raw.gitmirror.com/qq57240/iptv/main/logo/null.png" group-title="卫视标清",中国教育四套
@@ -126,7 +122,6 @@ udp://233.50.201.37:5140
 udp://233.50.201.38:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN-俄语" tvg-logo="https://raw.gitmirror.com/qq57240/iptv/main/logo/cgtn.png" group-title="国际标清",CGTN-俄语
 udp://233.50.201.39:5140
-
 
 #EXTINF:-1 tvg-id="38" tvg-name="钱江频道" tvg-logo="https://raw.gitmirror.com/qq57240/iptv/main/logo/qianjiang.png" group-title="地方高清",钱江频道
 udp://233.50.201.132:5140
@@ -183,7 +178,6 @@ udp://233.50.201.169:5140
 #EXTINF:-1 tvg-id="49" tvg-name="杭州导视" tvg-logo="https://raw.gitmirror.com/qq57240/iptv/main/logo/null.png" group-title="地方",杭州导视
 udp://233.50.201.182:5140
 
-
 #EXTINF:-1 tvg-id="91" tvg-name="新视觉HD" tvg-logo="https://raw.gitmirror.com/qq57240/iptv/main/logo/null.png" group-title="影视剧场",新视觉HD
 udp://233.50.201.244:5140
 #EXTINF:-1 tvg-id="56" tvg-name="欢笑剧场" tvg-logo="https://raw.gitmirror.com/qq57240/iptv/main/logo/null.png" group-title="影视剧场",欢笑剧场
@@ -216,7 +210,6 @@ udp://233.50.201.109:5140
 udp://233.50.201.248:5140
 #EXTINF:-1 tvg-id="95" tvg-name="家有购物" tvg-logo="https://raw.gitmirror.com/qq57240/iptv/main/logo/null.png" group-title="电视购物",家有购物
 udp://233.50.201.90:5140
-
 
 #EXTINF:-1 tvg-id="64" tvg-name="BesTV" tvg-logo="https://raw.gitmirror.com/qq57240/iptv/main/logo/null.png" group-title="其他频道",BesTV
 udp://233.50.201.201:5140
