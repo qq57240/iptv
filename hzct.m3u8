@@ -178,7 +178,7 @@ udp://233.50.201.169:5140
 #EXTINF:-1 tvg-id="87" tvg-name="杭州导视" tvg-logo="https://cdn.jsdelivr.net/gh/qq57240/iptv/logo/null.png" group-title="地方",杭州导视
 udp://233.50.201.182:5140
 
-#EXTINF:-1 tvg-id="88" tvg-name="新视觉" tvg-logo="https://cdn.jsdelivr.net/gh/qq57240/iptv/logo/新视觉HD.png" group-title="影视剧场",新视觉
+#EXTINF:-1 tvg-id="88" tvg-name="新视觉" tvg-logo="https://cdn.jsdelivr.net/gh/qq57240/iptv/logo/新视觉.png" group-title="影视剧场",新视觉
 udp://233.50.201.244:5140
 #EXTINF:-1 tvg-id="89" tvg-name="欢笑剧场" tvg-logo="https://cdn.jsdelivr.net/gh/qq57240/iptv/logo/欢笑剧场.png" group-title="影视剧场",欢笑剧场
 udp://233.50.201.189:5140
