@@ -143,7 +143,7 @@ udp://233.50.201.174:5140
 udp://233.50.201.175:5140
 #EXTINF:-1 tvg-id="70" tvg-name="杭州影视" tvg-logo="https://cdn.jsdelivr.net/gh/qq57240/iptv/logo/杭州影视.png" group-title="地方高清",杭州影视
 udp://233.50.201.176:5140
-#EXTINF:-1 tvg-id="71" tvg-name="杭州青少" tvg-logo="https://cdn.jsdelivr.net/gh/qq57240/iptv/logo/杭州青少.png" group-title="地方高清",杭州青少
+#EXTINF:-1 tvg-id="71" tvg-name="杭州少儿" tvg-logo="https://cdn.jsdelivr.net/gh/qq57240/iptv/logo/杭州青少.png" group-title="地方高清",杭州少儿
 udp://233.50.201.177:5140
 #EXTINF:-1 tvg-id="72" tvg-name="杭州导视" tvg-logo="https://cdn.jsdelivr.net/gh/qq57240/iptv/logo/null.png" group-title="地方高清",杭州导视
 rtp://233.50.201.182:5140
